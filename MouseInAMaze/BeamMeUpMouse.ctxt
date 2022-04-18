@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BeamMeUpMouse
+comment0.text=\n\ This\ Mouse\ teleports\ directly\ to\ the\ cheese.\n\n\ @author\ Raymond\ Ribaudo\n\ @version\ 3/12/2022\n
+comment1.params=
+comment1.target=BeamMeUpMouse()
+comment1.text=\n\ This\ bit\ of\ code\ tells\ the\ BeamMeUpMouse\ where\ the\ cheese\ is\ exactly\n
+comment2.params=
+comment2.target=edu.kzoo.grid.Location\ nextLocation()
+numComments=3

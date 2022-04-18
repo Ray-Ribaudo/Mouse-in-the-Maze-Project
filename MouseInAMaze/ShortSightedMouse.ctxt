@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShortSightedMouse
+comment0.text=\n\ This\ Mouse\ cant\ see\ too\ far\ away,\ it\ is\ like\ the\ clueless\ mouse\ and\ will\ move\ randomly\ unless\ the\ cheese\ is\ right\ in\ front\ of\ it.\n\n\ @author\ Raymond\ Ribaudo\n\ @version\ 3/12/2022\n
+comment1.params=
+comment1.target=ShortSightedMouse()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ShortSightedMouse\n
+comment2.params=choosenDir
+comment2.target=boolean\ IsThisDirCheese(edu.kzoo.grid.Direction)
+comment2.text=\n\ This\ checks\ if\ the\ mouse\ can\ see\ the\ cheese\ when\ it\ is\ in\ front\ of\ it\ by\ two\ blocks.\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=edu.kzoo.grid.Direction\ CheckAllCheeseDir()
+comment3.text=\n\ This\ will\ return\ the\ cheese\ if\ it\ is\ in\ sight\ by\ two\ blocks\n
+comment4.params=
+comment4.target=edu.kzoo.grid.Location\ nextLocation()
+comment4.text=\n\ This\ bit\ of\ code\ determines\ the\ next\ location\ for\ the\ mouse\n
+numComments=5

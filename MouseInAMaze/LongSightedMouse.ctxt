@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LongSightedMouse
+comment0.text=\n\ This\ Mouse\ has\ the\ best\ eyesight\ out\ of\ the\ mice\ and\ can\ see\ far\ far\ away.\n\n\ @author\ Raymond\ Ribaudo\n\ @version\ 3/12/2022\n
+comment1.params=
+comment1.target=LongSightedMouse()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LongSightedMouse\n
+comment2.params=choosenDir
+comment2.target=boolean\ IsThisDirCheese(edu.kzoo.grid.Direction)
+numComments=3

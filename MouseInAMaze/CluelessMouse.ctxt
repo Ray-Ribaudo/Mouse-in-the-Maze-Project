@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CluelessMouse
+comment0.text=\n\ This\ Mouse\ is\ clueless\ and\ cant\ find\ the\ cheese\ no\ matter\ what.\ It\ moves\ randomly.\n\n\ @author\ Raymond\ Ribaudo\n\ @version\ 3/12/2022\n
+comment1.params=
+comment1.target=CluelessMouse()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CluelessMouse\n
+comment2.params=
+comment2.target=edu.kzoo.grid.Location\ nextLocation()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=3
